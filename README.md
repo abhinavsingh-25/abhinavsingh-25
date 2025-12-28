@@ -25,7 +25,7 @@ open-source projects through meaningful contributions.
 ---
 
 ## 🛠️ Tech Stack
-<h3>A passionate frontend developer from India</h3>
+
 
 <p align="left">
 </p>
